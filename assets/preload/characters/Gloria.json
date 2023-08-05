@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				39
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				29
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gloria",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "gloria",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		64
+	],
+	"camera_position": [
+		-260,
+		-10
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				30
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "SIdle"
+		},
+		{
+			"offsets": [
+				41,
+				18
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SDown"
+		},
+		{
+			"offsets": [
+				33,
+				66
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				55
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "SLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				54
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "SRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sophie",
+	"position": [
+		40,
+		0
+	],
+	"healthicon": "sofie",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		67,
+		28
+	],
+	"camera_position": [
+		10,
+		-280
+	],
+	"sing_duration": 7.4,
+	"scale": 1.5
+}

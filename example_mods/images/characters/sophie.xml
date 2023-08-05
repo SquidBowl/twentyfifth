@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sophie.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SDown0000" x="100" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0001" x="481" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0002" x="862" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0003" x="1243" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0004" x="1624" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0005" x="2005" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0006" x="2386" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0007" x="2767" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0008" x="3148" y="100" width="281" height="469"/>
+	<SubTexture name="SDown0009" x="3529" y="100" width="281" height="469"/>
+	<SubTexture name="SIdle0000" x="100" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0001" x="475" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0002" x="850" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0003" x="1225" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0004" x="1600" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0005" x="1975" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0006" x="2350" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0007" x="2725" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0008" x="3100" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0009" x="3475" y="669" width="275" height="477"/>
+	<SubTexture name="SIdle0010" x="100" y="1246" width="275" height="477"/>
+	<SubTexture name="SIdle0011" x="475" y="1246" width="275" height="477"/>
+	<SubTexture name="SLeft0000" x="850" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0001" x="1258" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0002" x="1666" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0003" x="2074" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0004" x="2482" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0005" x="2890" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0006" x="3298" y="1246" width="308" height="493"/>
+	<SubTexture name="SLeft0007" x="100" y="1839" width="308" height="493"/>
+	<SubTexture name="SLeft0008" x="508" y="1839" width="308" height="493"/>
+	<SubTexture name="SLeft0009" x="916" y="1839" width="308" height="493"/>
+	<SubTexture name="SRight0000" x="1324" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0001" x="1712" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0002" x="2100" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0003" x="2488" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0004" x="2876" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0005" x="3264" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0006" x="3652" y="1839" width="288" height="493"/>
+	<SubTexture name="SRight0007" x="100" y="2432" width="288" height="493"/>
+	<SubTexture name="SRight0008" x="488" y="2432" width="288" height="493"/>
+	<SubTexture name="SRight0009" x="876" y="2432" width="288" height="493"/>
+	<SubTexture name="SUp0000" x="1264" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0001" x="1641" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0002" x="2018" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0003" x="2395" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0004" x="2772" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0005" x="3149" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0006" x="3526" y="2432" width="277" height="503"/>
+	<SubTexture name="SUp0007" x="100" y="3035" width="277" height="503"/>
+	<SubTexture name="SUp0008" x="477" y="3035" width="277" height="503"/>
+	<SubTexture name="SUp0009" x="854" y="3035" width="277" height="503"/>
+</TextureAtlas>
